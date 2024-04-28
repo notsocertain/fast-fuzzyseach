@@ -1,0 +1,8 @@
+# Ignore macOS DS_Store files
+.DS_Store
+
+# Ignore CSV files
+*.csv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
